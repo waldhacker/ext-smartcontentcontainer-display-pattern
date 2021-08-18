@@ -1,0 +1,14 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Waldhacker\SmartContentContainerDisplayPattern\:
+    resource: '../Classes/*'
+
+  Waldhacker\SmartContentContainerDisplayPattern\Event\BeforeRenderingEventListener:
+    tags:
+      - name: event.listener
+        identifier: 'smartcontentcontainer-process-display-pattern'
+        method: 'beforeRendering'

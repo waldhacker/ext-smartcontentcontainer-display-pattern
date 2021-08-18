@@ -1,0 +1,7 @@
+plugin.tx_smartcontentcontainerdisplaypattern {
+    settings {
+        specialContentPlacement {
+            allowedCategoryItemsTables = tt_content
+        }
+    }
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" datatype="plaintext" original="EXT:smartcontentcontainer_display_pattern/Resources/Private/Language/locallang_tca.xlf" date="2021-08-16T20:22:34Z" product-name="smartcontentcontainer_display_pattern">
+		<header/>
+		<body>
+			<trans-unit id="sheets.sSccSortingConfiguration" resname="sheets.sSccSortingConfiguration">
+				<source>Sorting and display pattern</source>
+			</trans-unit>
+			<trans-unit id="sheets.sSccContentPlacements" resname="sheets.sSccContentPlacements">
+				<source>Special content placement</source>
+			</trans-unit>
+			<trans-unit id="displayPatternActivate" resname="displayPatternActivate">
+				<source>Sort content pool items based on pattern</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRules" resname="displayPatternRules">
+				<source>Pattern to sort content pool items</source>
+			</trans-unit>
+			<trans-unit id="rule" resname="rule">
+				<source>Rule</source>
+			</trans-unit>
+			<trans-unit id="ruleTitle" resname="ruleTitle">
+				<source>Rule title (not visible in frontend)</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleScope" resname="displayPatternRuleScope">
+				<source>Display content pool items based on</source>
+			</trans-unit>
+			<trans-unit id="custom_recordtype" resname="custom_recordtype">
+				<source>a record type</source>
+			</trans-unit>
+			<trans-unit id="custom_category" resname="custom_category">
+				<source>a category</source>
+			</trans-unit>
+			<trans-unit id="auto_collected_categories_from_page" resname="auto_collected_categories_from_page">
+				<source>all assigned categories of the page that contains this "Smart content container" element</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleFromCustomRecordType" resname="displayPatternRuleFromCustomRecordType">
+				<source>Display content pool items which are of the following record type</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleFromCustomCategory" resname="displayPatternRuleFromCustomCategory">
+				<source>Display content pool items which are assigned to this category</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleFromPageCategoryField" resname="displayPatternRuleFromPageCategoryField">
+				<source>This page category field is used to source the categories that will be used to display the content pool items</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleMinTotalRecords" resname="displayPatternRuleMinTotalRecords">
+				<source>The minimum number of content pool items which should be displayed by this ruleset</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleMaxTotalRecords" resname="displayPatternRuleMaxTotalRecords">
+				<source>The maximum number of content pool items which should be displayed by this ruleset</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRuleSorting" resname="displayPatternRuleSorting">
+				<source>Sort content pool items displayed by this ruleset based on</source>
+			</trans-unit>
+			<trans-unit id="last_updated" resname="last_updated">
+				<source>the update date of the content pool items</source>
+			</trans-unit>
+			<trans-unit id="random" resname="random">
+				<source>random</source>
+			</trans-unit>
+			<trans-unit id="collection_sorting" resname="collection_sorting">
+				<source>the content pool sorting</source>
+			</trans-unit>
+			<trans-unit id="displayPatternRulesRepeat" resname="displayPatternRulesRepeat">
+				<source>Repeat the display pattern</source>
+			</trans-unit>
+			<trans-unit id="contentPlacements" resname="contentPlacements">
+				<source>Place records in specific locations</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementScope" resname="contentPlacementScope">
+				<source>Record source</source>
+			</trans-unit>
+			<trans-unit id="custom_record_list" resname="custom_record_list">
+				<source>a record list</source>
+			</trans-unit>
+			<trans-unit id="custom_category_list" resname="custom_category_list">
+				<source>a selection of categories</source>
+			</trans-unit>
+			<trans-unit id="auto_collected_categories_from_page" resname="auto_collected_categories_from_page">
+				<source>all assigned categories of the page that contains this "Smart content container" element</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementFromCustomRecordtypeList" resname="contentPlacementFromCustomRecordtypeList">
+				<source>Replacement content pool - These records are used to place them in specific locations</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementFromCustomCategoryList" resname="contentPlacementFromCustomCategoryList">
+				<source>Records assigned to these categories are used to place them in specific locations</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementFromPageCategoryField" resname="contentPlacementFromPageCategoryField">
+				<source>This page category field is used to source the categories</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementRecordListSorting" resname="contentPlacementRecordListSorting">
+				<source>Record sorting based on</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementCategorySorting" resname="contentPlacementCategorySorting">
+				<source>Record sorting based on</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementRecordListSorting.collection_sorting" resname="contentPlacementRecordListSorting.collection_sorting">
+				<source>the replacement content pool sorting</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementPosition" resname="contentPlacementPosition">
+				<source>At which n-th position should the records be inserted</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementRepetitionType" resname="contentPlacementRepetitionType">
+				<source>Should the replacement start over as soon as all sourced replacement-records have been placed</source>
+			</trans-unit>
+			<trans-unit id="contentPlacementReplace" resname="contentPlacementReplace">
+				<source>Replace the original content instead of moving it one backwards</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
